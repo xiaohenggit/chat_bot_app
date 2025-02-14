@@ -13,5 +13,5 @@ For exp. ```ollama run deepseek-r1```
 ## Run the chatbot
 Like: ```python main.py --model deepseek-r1:latest```
 
-Chatbot is looks like:
+Chatbot is looks like:<br>
 ![image] (https://github.com/xiaohenggit/chat_bot_app/blob/main/chat_shoot.PNG)
